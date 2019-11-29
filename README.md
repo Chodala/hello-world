@@ -1,2 +1,5 @@
 # hello-world
-just another repository
+
+HI humans 
+
+i m a fucking robot and this is hard
